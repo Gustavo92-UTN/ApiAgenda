@@ -1,0 +1,2 @@
+# ApiAgenda
+ Tarea 1. Crear una base de datos  -> db_agenda 	-> contactos 		- idContacto 		- nombre 		- apellido 		- fechaNacimiento 		- email 		- telefono 		 2. crear diagrama EER (WORKBENCH)  3. Crear menu en java 	1. Todos los contactos (si el contacto cumple años mostrar mensaje) 	2. Buscar contacto (por nombre o apellido) utilizar LIKE 	3. Agregar nuevo contacto 	4. Editar contacto (al menos uno de los campos de la fila) 	5. Eliminar contacto 	 4. subir el proyecto a github(diagrama, .sql, proyecto netbeans).
